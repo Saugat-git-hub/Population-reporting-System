@@ -1,4 +1,6 @@
 Branching Strategy (GitFlow)
+
+
 Overview
 We follow the GitFlow workflow for this project. This document explains how to work with branches.
 
